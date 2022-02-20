@@ -1,0 +1,17 @@
+{
+  "name": "cat-card-application-gapstars",
+  "version": "1.0.0",
+  "description": "Combine cat images randomly",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "minimist": "^1.2.5",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
